@@ -100,3 +100,4 @@
 - [Mac 下的定时任务工具：Launchctl](http://wu.run/2019/03/27/mac-launchctl-guidance/)
 - [Abeautifulsnow/navicat-premium-crack: This script is used to crack navicat premium application for another 14 days trial. (github.com)](https://github.com/Abeautifulsnow/navicat-premium-crack/)
 - [吾爱破解-Mac版本 Navicat16无限试用方案](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1669993)
+- [MacOS:Launchd&LaunchDaemon&LaunchAgent&.plist文件编写](https://blog.csdn.net/dddgggd/article/details/122599616)
